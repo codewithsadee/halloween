@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/blogy)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/blogy?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/blogy?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/halloween)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/halloween?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/halloween?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/NNQuhOeM0mI?style=social)](https://youtu.be/NNQuhOeM0mI)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/i5d1RO48chI?style=social)](https://youtu.be/i5d1RO48chI)
 
   <br />
   <br />
 
-  <h2 align="center">Blogy - Blog Website</h2>
+  <h2 align="center">Halloween - Landing Page</h2>
 
-  Blogy is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Halloween is a fully responsive landing page, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/blogy/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/halloween/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Blogy Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Halloween Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,18 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Blogy** locally, run this command on your git bash:
+To run **Halloween** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/blogy.git
+sudo git clone https://github.com/codewithsadee/halloween.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/blogy.git
+git clone https://github.com/codewithsadee/halloween.git
 ```
 
 ### Contact
